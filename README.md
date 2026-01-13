@@ -2,22 +2,18 @@
 
 <!-- Animated Header -->
 <a href="https://github.com/RoseOfficial">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFF9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8C%B9+RoseOfficial;Dalamud+Plugin+Developer;FFXIV+Tool+Creator;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFF9&center=true&vCenter=true&repeat=true&width=450&height=70&lines=%F0%9F%8C%B9+RoseOfficial;Dalamud+Plugin+Developer;FFXIV+Tool+Creator;Web+Developer" alt="Typing SVG" />
 </a>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Section -->
-```css
-/* SYSTEM.INIT */
-.developer {
-    name: "RoseOfficial";
-    location: "The Digital Realm";
-    focus: ["Dalamud Plugins", "Gaming Tools", "Web Development"];
-    status: "Building tools that enhance gaming experiences";
-}
-```
+**`⚡ SYSTEM.INIT ⚡`**
+
+*Building tools that enhance gaming experiences*
+
+`Dalamud Plugins` • `Gaming Tools` • `Web Development`
 
 <br>
 
