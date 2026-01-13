@@ -58,13 +58,13 @@
 ## 📊 Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoseOfficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseOfficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RoseOfficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff&text_color=c9d1d9&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RoseOfficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <!-- Streak Stats -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoseOfficial&theme=radical&hide_border=true&background=0D1117&stroke=00fff9&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff9" />
+  <img src="https://streak-stats.demolab.com/?user=RoseOfficial&theme=radical&hide_border=true&background=0D1117&stroke=00fff9&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff9" />
 </p>
 
 <br>
@@ -89,17 +89,17 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/RoseOfficial/QuestFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseOfficial&repo=QuestFlow&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RoseOfficial&repo=QuestFlow&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
 </a>
 <a href="https://github.com/RoseOfficial/Olympus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseOfficial&repo=Olympus&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RoseOfficial&repo=Olympus&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
 </a>
 
 <a href="https://github.com/RoseOfficial/EventStream">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseOfficial&repo=EventStream&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RoseOfficial&repo=EventStream&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
 </a>
 <a href="https://github.com/RoseOfficial/ReadyCrafter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseOfficial&repo=ReadyCrafter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RoseOfficial&repo=ReadyCrafter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff9&icon_color=ff00ff" />
 </a>
 
 <br><br>
